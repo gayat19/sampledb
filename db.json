@@ -1,4 +1,4 @@
-[{
+{"pizzas":[{
     "id": 101,
     "name": "Cheese Overloaded",
     "likes": 3,
@@ -13,4 +13,4 @@
     "isFav": false,
     "pic": "assets/images/Pic2.jpg",
     "price": 450.75
-  }]
+  }]}
